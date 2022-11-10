@@ -4,6 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
+## About the Pickle Bitches
+
+  - Started in ... with ..., the group set out to ... and changed the world forever through their love of pickleball. This is truly bitchin'.
+
 ## Installation
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
