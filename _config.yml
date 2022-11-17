@@ -22,7 +22,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Pickle Pups", url: "https://google.com", sidebaricon: dog}
   - {file: "/README.md", title: "About the Bitches", sidebaricon: question}
   - {title: "My Account", url: "https://google.com", icon: address-card}
-  - {title: ""}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/The-Salisbury-School"}
