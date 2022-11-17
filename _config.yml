@@ -1,6 +1,6 @@
 title: "Picklebitches"
 author: "TSS Webdev"
-description: "Made by <b style=\"color: #f166;\">&lt;The Salisbury School Webdev Team</b>"
+description: "Made by <b style=\"color: #31B426;\">&lt;The Salisbury School Webdev Team></b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/index.html", title: "Home", icon: home}
   - {title: "Videos & Media", url: "https://google.com", icon: photo-film}
-  - {title: "Shop", url: "https://google.com", icon: bags-shopping}
+  - {title: "Shop", url: "https://google.com", icon: bag-shopping}
   - {title: "Pickle Pups", url: "https://google.com", icon: dog}
   - {file: "/README.md", title: "About the Bitches", icon: question}
   - {title: "My Account", url: "https://google.com", icon: address-card}
