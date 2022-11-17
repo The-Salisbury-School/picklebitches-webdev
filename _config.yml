@@ -16,12 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/index.html", title: "Home", icon: home}
-  - {title: "Videos & Media", url: "https://google.com", icon: photo-film}
-  - {title: "Shop", url: "https://google.com", icon: bag-shopping}
-  - {title: "Pickle Pups", url: "https://google.com", icon: dog}
-  - {file: "/README.md", title: "About the Bitches", icon: question}
-  - {title: "My Account", url: "https://google.com", icon: address-card} 
+  - {file: "/index.html", title: "Home", sidebaricon: home}
+  - {title: "Videos & Media", url: "https://google.com", sidebaricon: photo-film}
+  - {title: "Shop", url: "https://google.com", sidebaricon: bag-shopping}
+  - {title: "Pickle Pups", url: "https://google.com", sidebaricon: dog}
+  - {file: "/README.md", title: "About the Bitches", sidebaricon: question}
+  - {title: "My Account", url: "https://google.com", sidebaricon: address-card} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/The-Salisbury-School"}
