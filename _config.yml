@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/index.html", title: "Home", icon: home}
+  - {file: "/index.html", title: "Home", icon: home, url: "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FThe-Salisbury-School%2Fpicklebitches-webdev"}
   - {title: "Videos & Media", url: "https://google.com", sidebaricon: photo-film}
   - {title: "Shop", url: "https://google.com", sidebaricon: bag-shopping}
   - {title: "Pickle Pups", url: "https://google.com", sidebaricon: dog}
