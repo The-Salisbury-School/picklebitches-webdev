@@ -4,6 +4,8 @@ layout: post
 ---
 
 This is the first blog post of the `Pickle Bitches Official Website`, which means...
+It's time to learn how to make posts!
+
 
 ### New Posts
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
