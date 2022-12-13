@@ -6,7 +6,8 @@ layout: page
 
 ## About the Pickle Bitches
 
-  - Started in ... with ..., the group set out to ... and changed the world forever through their love of pickleball. This is truly bitchin'.
+  - Started in midst of the 2020 COVID-19 Pandemic, a group of women: "The Pickle Bitches" formed, looking to spend their free time together, regardless of the conditions that the pandemic placed them in.  the group has charged themselves with bringing Pickleball to the world. Through their love of pickleball.  The bitches are determined to inspure those around them to play pickleball through this website, and their love of the pickleball.  This is truly bitchin'.
+
 
 ## Installation
 
