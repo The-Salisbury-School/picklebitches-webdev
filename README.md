@@ -6,7 +6,7 @@ layout: page
 
 ## About the Pickle Bitches
 
-  - Started in 2020, in the midst of the  COVID-19 Pandemic, a group of women: "The Pickle Bitches" formed, looking to spend their free time together, regardless of the conditions that the pandemic placed them in.  the group has charged themselves with bringing Pickleball to the world. Through their love of pickleball.  The bitches are determined to inspure those around them to play pickleball through this website, and their love of the pickleball.  This is truly bitchin'.
+  - Started in 2020, in the midst of the  COVID-19 Pandemic, a group of women: "The Pickle Bitches" formed, looking to spend their free time together, regardless of the conditions that the pandemic placed them in.  the group has charged themselves with bringing Pickleball to the world. Through their love of pickleball.  The bitches are determined to inspire those around them to play pickleball through this website, and their love of the pickleball.  This is truly bitchin'.
 
 
 ## Installation
