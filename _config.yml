@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Videos & Media", url: "https://google.com"}
   - {title: "Shop", url: "https://google.com"}
   - {title: "Pickle Pups", url: "https://google.com"}
-  - {file: "/README.md", title: "About the Bitches"}
+  - {file: "/README.md"}
   - {title: "My Account", url: "https://google.com", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
